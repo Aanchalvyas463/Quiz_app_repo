@@ -1,0 +1,7 @@
+Flask
+mysql-connector-python
+
+Flask-Cors
+
+
+#to run requirements = pip install -r requirements.txt
